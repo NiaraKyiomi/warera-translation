@@ -5121,7 +5121,7 @@ msgstr "Şirketi sat?"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:196
 msgid "Sell for <0>{count}</0> money on market"
-msgstr "Pazarda <0>{count}</0> ye sat"
+msgstr "Pazarda <0>{count}</0> tutarında paraya sat"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:54
 msgid "Sell it, you need to buy more cases to gamble!"
