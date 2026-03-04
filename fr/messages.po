@@ -102,19 +102,19 @@ msgstr "{0}% de l'investissement"
 
 #: src/components/_military/battle/BattleName.tsx:141
 msgid "{battleIcon}Resistance battle for {regionName} {score}"
-msgstr "{battleIcon}Bataille de la résistance pour {regionName} {score}"
+msgstr "{battleIcon}Résistance pour {regionName} {score}"
 
 #: src/components/_military/battle/BattleName.tsx:146
 msgid "{battleIcon}Revolution battle {score}"
-msgstr "{battleIcon}Bataille de la révolution {score}"
+msgstr "{battleIcon}Révolution {score}"
 
 #: src/components/_military/battle/BattleName.tsx:151
 msgid "{battleIcon}Tournament battle for {tournamentName} {score}"
-msgstr "{battleIcon}Bataille du tournoi {tournamentName} {score}"
+msgstr "{battleIcon}Tournoi pour {tournamentName} {score}"
 
 #: src/components/_military/battle/BattleName.tsx:136
 msgid "{battleIcon}War battle for {regionName} {score}"
-msgstr "{battleIcon}Bataille de guerre pour {regionName} {score}"
+msgstr "{battleIcon}Guerre pour {regionName} {score}"
 
 #: src/components/_user/mission/MissionsList.tsx:171
 msgid "{completedCount}/{totalCount} completed"
@@ -4653,11 +4653,11 @@ msgstr "Les élections présidentielles sont terminées dans <0/>. Découvrez le
 
 #: src/components/_user/notification/notification.frontConfig.tsx:158
 msgid "Presidential election vote open"
-msgstr "Vote présidentiel ouvert"
+msgstr "Vote des élections présidentielles ouvert"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:164
 msgid "Presidential election voting is now open in <0/>"
-msgstr "Le vote des élections présidentielles est ouvert dans <0/>"
+msgstr "Vote des élections présidentielles sera ouvert dans <0/>"
 
 #: src/pages/country/[countryId]/elections.tsx:56
 msgid "Presidential elections"
