@@ -189,7 +189,7 @@ msgstr "<0/> finansēja pretošanās kauju <2/> priekš <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:149
 msgid "<0/> financed a revolt in <1/>"
-msgstr "<0/> finansēja sacelšanos<1/>"
+msgstr "<0/> finansēja sacelšanos <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:446
 msgid "<0/> financed a revolt in <1/> for <2/> against <3/>"
@@ -278,12 +278,12 @@ msgstr "<0/> apspieda pretošanos <1/>"
 #. placeholder {0}: data.money
 #: src/components/_political/event/event.frontConfig.tsx:254
 msgid "<0/> has transferred <1>{0}</1> to <2/>"
-msgstr "<0/> pārcēla <1>{0}</1> uz <2/>"
+msgstr "<0/> pārskaitīja <1>{0}</1> uz <2/>"
 
 #. placeholder {0}: !data.attackerRegion ? 'revolting' : 'attacking'
 #: src/components/_political/event/event.frontConfig.tsx:155
 msgid "<0/> is {0} <1/>"
-msgstr "<0/> ir {0} <1/>"
+msgstr "<0/> {0} <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1035
 msgid "<0/> is attacking <1/> in <2/>"
@@ -295,7 +295,7 @@ msgstr "<0/> uzbrūk tavai valstij reģionā <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:299
 msgid "<0/> is in bankruptcy. Removing all alliances and disabling every region upgrades."
-msgstr "<0/> ir bankrotējusi. Visas alianses tiek noņemtas un visu reģionu uzlabojumi - izslēgti."
+msgstr "<0/> ir bankrotējusi. Visas alianses tiek atceltas un visu reģionu uzlabojumi - izslēgti."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1050
 msgid "<0/> is revolting in <1/> against your country"
@@ -337,7 +337,7 @@ msgstr "<0/> patika tava ziņa <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:242
 msgid "<0/> made peace with <1/>"
-msgstr "<0/> noslēdza mieru ar <1/>"
+msgstr "<0/> noslēdza pamieru ar <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1313
 msgid "<0/> mentioned you in a message <1/>"
@@ -382,7 +382,7 @@ msgstr "<0/> vēlas noslēgt pamieru ar tavu valsti"
 
 #: src/components/_political/event/event.frontConfig.tsx:192
 msgid "<0/> was elected president of <1/>"
-msgstr "<0/> tika ievēlēts par <1/> Prezidentu"
+msgstr "<0/> tika ievēlēts par <1/> prezidentu"
 
 #. placeholder {0}: ts[data.governmentRole]
 #: src/components/_user/notification/notification.frontConfig.tsx:665
@@ -433,7 +433,7 @@ msgstr "<0/>Prioritāte beigsies pēc <1/>"
 #. placeholder {0}: levelConfig.stats.resistanceGrowthReduction ?? 0
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:58
 msgid "<0>-{0}%</0> Resistance growth per hour"
-msgstr "<0>-{0}%</0> Pretestības izaugsme stundā"
+msgstr "<0>-{0}%</0> Pretestības pieaugums stundā"
 
 #. placeholder {0}: companiesIds?.length ?? 0
 #. placeholder {1}: companiesLimit ?? 99
@@ -622,7 +622,7 @@ msgstr "<0>Piepildās ar <1>Ražošanas Punktiem</1> strādājot, kā arī no au
 #. placeholder {5}: gameConfig?.unrest.contributionCooldownAfterRevolutionHours
 #: src/components/_political/unrest/UnrestBar.tsx:25
 msgid "<0>Unrest</0> represents internal tension in the country.<1/><2/>Citizens can <3>increase</3> or <4>decrease</4> unrest by spending <5>{0}</5> or <6>{1}</6> to change the bar by <7>{2}</7>.<8/><9/>When the bar is full, any party can vote via motion to start a <10>Civil war</10> (cost: <11>development × 10</11>, cooldown: {3}h). The battle takes place in the capital region, and <12>only citizens</12> can fight.<13/><14/>If revolutionaries win:<15/>- Government is impeached<16/>- Borders are opened for {4} days<17/>- Presidential elections begin<18/><19/>After a revolution, contributions are disabled for {5}h."
-msgstr "<0>Nemieri</0> atspoguļo iekšējo spriedzi valstī.<1/><2/>Pilsoņi var <3>palielināt</3> vai <4>samazināt</4> nemierus iztērējot <5>{0}</5> vai <6>{1}</6>, lai mainītu nemieru stabiņu par <7>{2}</7>.<8/><9/>Kad stabiņš ir pilns, jebkura partija var balsot priekšlikumā, lai uzsāktu <10>Civilo karu</10> (maksa: <11>attīstība × 10</11>, atdzišanas laiks: {3}h). Kauja notiek valsts galvaspilsētas reģionā, un <12>tikai tās valsts pilsoņi</12> var piedalīties kaujā.<13/><14/>Ja revolucionāri uzvar:<15/>- Valdība tiek gāzta<16/>- Robežas tiek atvērtas uz {4} dienām<17/>- Prezidenta vēlēšanas tiek uzsāktas<18/><19/>Pēc revolūcijas, nevar atbalstīt nemierus {5}h."
+msgstr "<0>Nemieri</0> atspoguļo iekšējo spriedzi valstī.<1/><2/>Pilsoņi var <3>palielināt</3> vai <4>samazināt</4> nemierus par <7>{2}</7> iztērējot <5>{0}</5> vai <6>{1}</6>.<8/><9/>Kad stabiņš ir pilns, jebkura partija var balsot priekšlikumā, lai uzsāktu <10>Civilo karu</10> (maksa: <11>attīstība × 10</11>, atdzišanas laiks: {3}h). Kauja notiek valsts galvaspilsētas reģionā, un <12>tikai tās valsts pilsoņi</12> var piedalīties kaujā.<13/><14/>Ja revolucionāri uzvar:<15/>- Valdība tiek gāzta<16/>- Robežas tiek atvērtas uz {4} dienām<17/>- Tiek uzsāktas prezidenta vēlēšanas<18/><19/>Pēc revolūcijas, nevar atbalstīt nemierus {5}h."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -2426,7 +2426,7 @@ msgstr "Atrasta resursu atradne"
 #. placeholder {0}: ts[data.itemCode]
 #: src/components/_political/event/event.frontConfig.tsx:285
 msgid "Deposit of <0>{0}</0> has been depleted in <1/>"
-msgstr "<0>{0}</0> atradne ir izsīkusi <1/>"
+msgstr "<0>{0}</0> atradne ir izsmelta <1/>"
 
 #: src/pages/region/[regionId]/index.tsx:56
 msgid "Deposit resource"
@@ -2791,11 +2791,11 @@ msgstr "Neizdevās uzsākt pieslēgšanos caur Discord. Lūdzu, pamēģini atkā
 
 #: src/components/_user/auth/ConnectFromModal.tsx:117
 msgid "Failed to start Google login."
-msgstr "Pieslēgšanās caur Google neizdevās."
+msgstr "Neizdevās pieslēgties caur Google."
 
 #: src/components/_user/auth/ConnectFromModal.tsx:115
 msgid "Failed to start Google login. Please retry the CAPTCHA."
-msgstr "Pieslēgšanās caur Google neizdevās. Lūdzu veic CAPTCHA vēlreiz."
+msgstr "Neizdevās pieslēgties caur Google. Lūdzu, pamēģini atkārtot CAPTCHA."
 
 #: src/components/_user/user/FamilyGroup.tsx:60
 msgid "Family Group"
@@ -3009,7 +3009,7 @@ msgstr "Ģenerēt Uzdevumus"
 #. placeholder {0}: levelConfig.stats.dailyProd
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:72
 msgid "Generates <0>{0}</0>/day"
-msgstr "Ģenerē <0>{0}</0>/dienā"
+msgstr "Saražo <0>{0}</0>/dienā"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:94
 msgid "Get multiple skins at once with a 30% discount!"
@@ -3700,13 +3700,13 @@ msgstr "Maršals"
 #. placeholder {0}: levelConfig.stats.members
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:104
 msgid "Maximum of <0>{0}</0> members."
-msgstr "Maksimums <0>{0}</0> biedrus."
+msgstr "Maksimālais biedru skaits <0>{0}</0>."
 
 #. placeholder {0}: levelConfig.stats.maxWorkers
 #. placeholder {1}: typeof levelConfig.stats.dailyHires !== 'undefined' && ( <> <br /> Daily hiring limit of{' '} <EntityValue IconComponent={WorkerIcon}> {levelConfig.stats.dailyHires} </EntityValue>{' '} per day. </> )
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:117
 msgid "Maximum of <0>{0}</0> workers.{1}"
-msgstr "Maksimums <0>{0}</0> darbiniekus.{1}"
+msgstr "Maksimālais darbinieku skaits <0>{0}</0>.{1}"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:32
 msgid "Maybe epic music would help?"
@@ -6284,7 +6284,7 @@ msgstr "Uzlabo savas prasmes!"
 #: src/pages/company/[companyId]/index.tsx:94
 #: src/pages/region/[regionId]/index.tsx:144
 msgid "Upgrades"
-msgstr "Celtnes"
+msgstr "Uzlabojumi"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:37
 msgid "Use your <0>Entrepreneurship</0> to work in your own company and fill its production bar."
