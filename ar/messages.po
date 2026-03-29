@@ -4729,7 +4729,7 @@ msgstr "لا يوجد أعضاء كونغرس"
 msgid "No contributions yet"
 msgstr "لا توجد مساهمات بعد"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:179
+#: src/components/_military/damageRanking/DamageRankingList.tsx:180
 msgid "No damages ranking yet."
 msgstr "لا يوجد تصنيف للأضرار بعد."
 
@@ -4737,7 +4737,7 @@ msgstr "لا يوجد تصنيف للأضرار بعد."
 msgid "No donations yet"
 msgstr "لا توجد تبرعات بعد"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:181
+#: src/components/_military/damageRanking/DamageRankingList.tsx:182
 msgid "No ground ranking yet."
 msgstr "لا يوجد تصنيف بري بعد."
 
@@ -4761,7 +4761,7 @@ msgstr "لم يتم العثور على وحدات عسكرية"
 msgid "No missions available"
 msgstr "لا توجد مهام متاحة"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:182
+#: src/components/_military/damageRanking/DamageRankingList.tsx:183
 msgid "No money ranking yet."
 msgstr "لا يوجد تصنيف للأموال بعد."
 
@@ -6240,7 +6240,7 @@ msgstr "الإعدادات"
 msgid "Shop"
 msgstr "المتجر"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:198
+#: src/components/_military/damageRanking/DamageRankingList.tsx:199
 #: src/components/_social/ArticleTags.tsx:268
 #: src/components/_social/ArticleTags.tsx:319
 #: src/components/_social/ArticleTags.tsx:427
@@ -8059,7 +8059,7 @@ msgstr "تم تفعيل اشتراكك المميز!"
 msgid "Your premium subscription has expired!"
 msgstr "انتهى اشتراكك المميز!"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:204
+#: src/components/_military/damageRanking/DamageRankingList.tsx:205
 msgid "Your rank"
 msgstr "رتبتك"
 

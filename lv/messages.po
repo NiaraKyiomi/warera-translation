@@ -4729,7 +4729,7 @@ msgstr "Nav kongresa deputātu"
 msgid "No contributions yet"
 msgstr "Nav neviena dumpinieka"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:179
+#: src/components/_military/damageRanking/DamageRankingList.tsx:180
 msgid "No damages ranking yet."
 msgstr "Nav bojājumu kopvērtējumā."
 
@@ -4737,7 +4737,7 @@ msgstr "Nav bojājumu kopvērtējumā."
 msgid "No donations yet"
 msgstr "Vēl nav ziedojumu"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:181
+#: src/components/_military/damageRanking/DamageRankingList.tsx:182
 msgid "No ground ranking yet."
 msgstr "Nav ieņemšanas punktu kopvērtējumā."
 
@@ -4761,7 +4761,7 @@ msgstr "Nav militāro vienību"
 msgid "No missions available"
 msgstr "Nav neviena uzdevuma"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:182
+#: src/components/_military/damageRanking/DamageRankingList.tsx:183
 msgid "No money ranking yet."
 msgstr "Vēl nav atlīdzības kopvērtējuma"
 
@@ -6240,7 +6240,7 @@ msgstr "Iestatījumi"
 msgid "Shop"
 msgstr "Veikals"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:198
+#: src/components/_military/damageRanking/DamageRankingList.tsx:199
 #: src/components/_social/ArticleTags.tsx:268
 #: src/components/_social/ArticleTags.tsx:319
 #: src/components/_social/ArticleTags.tsx:427
@@ -8059,7 +8059,7 @@ msgstr "Tavs premium abonements ir aktivizēts!"
 msgid "Your premium subscription has expired!"
 msgstr "Tavs premium abonements ir beidzies!"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:204
+#: src/components/_military/damageRanking/DamageRankingList.tsx:205
 msgid "Your rank"
 msgstr "Tava vieta kopvērtējumā"
 

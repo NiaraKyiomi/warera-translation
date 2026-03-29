@@ -4729,7 +4729,7 @@ msgstr "Парламентарів немає"
 msgid "No contributions yet"
 msgstr "Пожертв ще немає"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:179
+#: src/components/_military/damageRanking/DamageRankingList.tsx:180
 msgid "No damages ranking yet."
 msgstr "Рейтингу за шкодою ще немає."
 
@@ -4737,7 +4737,7 @@ msgstr "Рейтингу за шкодою ще немає."
 msgid "No donations yet"
 msgstr "Пожертв ще немає"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:181
+#: src/components/_military/damageRanking/DamageRankingList.tsx:182
 msgid "No ground ranking yet."
 msgstr "Рейтингу за балами контролю ще немає."
 
@@ -4761,7 +4761,7 @@ msgstr "Підрозділи не знайдено"
 msgid "No missions available"
 msgstr "Немає доступних місій"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:182
+#: src/components/_military/damageRanking/DamageRankingList.tsx:183
 msgid "No money ranking yet."
 msgstr "Грошового рейтингу ще немає."
 
@@ -6240,7 +6240,7 @@ msgstr "Налаштування"
 msgid "Shop"
 msgstr "Магазин"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:198
+#: src/components/_military/damageRanking/DamageRankingList.tsx:199
 #: src/components/_social/ArticleTags.tsx:268
 #: src/components/_social/ArticleTags.tsx:319
 #: src/components/_social/ArticleTags.tsx:427
@@ -8059,7 +8059,7 @@ msgstr "Ваша підписка була активована!"
 msgid "Your premium subscription has expired!"
 msgstr "Ваша підписка скінчилась!"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:204
+#: src/components/_military/damageRanking/DamageRankingList.tsx:205
 msgid "Your rank"
 msgstr "Ваш ранг"
 

@@ -4729,7 +4729,7 @@ msgstr "Geen congresleden"
 msgid "No contributions yet"
 msgstr "Nog geen bijdragen"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:179
+#: src/components/_military/damageRanking/DamageRankingList.tsx:180
 msgid "No damages ranking yet."
 msgstr "Nog geen schaderanglijst."
 
@@ -4737,7 +4737,7 @@ msgstr "Nog geen schaderanglijst."
 msgid "No donations yet"
 msgstr "Nog geen donaties"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:181
+#: src/components/_military/damageRanking/DamageRankingList.tsx:182
 msgid "No ground ranking yet."
 msgstr "Nog geen grondranglijst."
 
@@ -4761,7 +4761,7 @@ msgstr "Geen militaire eenheden gevonden"
 msgid "No missions available"
 msgstr "Geen missies beschikbaar"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:182
+#: src/components/_military/damageRanking/DamageRankingList.tsx:183
 msgid "No money ranking yet."
 msgstr "Nog geen geldranglijst."
 
@@ -6240,7 +6240,7 @@ msgstr "Instellingen"
 msgid "Shop"
 msgstr "Winkel"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:198
+#: src/components/_military/damageRanking/DamageRankingList.tsx:199
 #: src/components/_social/ArticleTags.tsx:268
 #: src/components/_social/ArticleTags.tsx:319
 #: src/components/_social/ArticleTags.tsx:427
@@ -8059,7 +8059,7 @@ msgstr "Je premiumabonnement is geactiveerd!"
 msgid "Your premium subscription has expired!"
 msgstr "Je premiumabonnement is verlopen!"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:204
+#: src/components/_military/damageRanking/DamageRankingList.tsx:205
 msgid "Your rank"
 msgstr "Jouw rang"
 

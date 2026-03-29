@@ -4729,7 +4729,7 @@ msgstr "Нет депутатов"
 msgid "No contributions yet"
 msgstr "Нет взносов"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:179
+#: src/components/_military/damageRanking/DamageRankingList.tsx:180
 msgid "No damages ranking yet."
 msgstr "Нет рейтинга урона."
 
@@ -4737,7 +4737,7 @@ msgstr "Нет рейтинга урона."
 msgid "No donations yet"
 msgstr "Нет пожертвований"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:181
+#: src/components/_military/damageRanking/DamageRankingList.tsx:182
 msgid "No ground ranking yet."
 msgstr "Нет рейтинга занятых высот."
 
@@ -4761,7 +4761,7 @@ msgstr "Военные отряды не найдены"
 msgid "No missions available"
 msgstr "Миссии недоступны"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:182
+#: src/components/_military/damageRanking/DamageRankingList.tsx:183
 msgid "No money ranking yet."
 msgstr "Нет рейтинга богатства."
 
@@ -6240,7 +6240,7 @@ msgstr "Настройки"
 msgid "Shop"
 msgstr "Магазин"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:198
+#: src/components/_military/damageRanking/DamageRankingList.tsx:199
 #: src/components/_social/ArticleTags.tsx:268
 #: src/components/_social/ArticleTags.tsx:319
 #: src/components/_social/ArticleTags.tsx:427
@@ -8059,7 +8059,7 @@ msgstr "Ваша премиум-подписка активирована!"
 msgid "Your premium subscription has expired!"
 msgstr "Ваша премиум-подписка истекла!"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:204
+#: src/components/_military/damageRanking/DamageRankingList.tsx:205
 msgid "Your rank"
 msgstr "Ваше звание"
 

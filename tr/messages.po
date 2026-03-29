@@ -4729,7 +4729,7 @@ msgstr "Meclis üyesi yok"
 msgid "No contributions yet"
 msgstr "Henüz katkı yok"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:179
+#: src/components/_military/damageRanking/DamageRankingList.tsx:180
 msgid "No damages ranking yet."
 msgstr "Henüz hasar sıralaması yok."
 
@@ -4737,7 +4737,7 @@ msgstr "Henüz hasar sıralaması yok."
 msgid "No donations yet"
 msgstr "Henüz bağış yok"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:181
+#: src/components/_military/damageRanking/DamageRankingList.tsx:182
 msgid "No ground ranking yet."
 msgstr "Henüz zemin sıralaması yok."
 
@@ -4761,7 +4761,7 @@ msgstr "Askeri birlik bulunamadı"
 msgid "No missions available"
 msgstr "Mevcut görev yok"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:182
+#: src/components/_military/damageRanking/DamageRankingList.tsx:183
 msgid "No money ranking yet."
 msgstr "Henüz para sıralaması yok."
 
@@ -6240,7 +6240,7 @@ msgstr "Ayarlar"
 msgid "Shop"
 msgstr "Mağaza"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:198
+#: src/components/_military/damageRanking/DamageRankingList.tsx:199
 #: src/components/_social/ArticleTags.tsx:268
 #: src/components/_social/ArticleTags.tsx:319
 #: src/components/_social/ArticleTags.tsx:427
@@ -8059,7 +8059,7 @@ msgstr "Premium aboneliğin aktif edildi!"
 msgid "Your premium subscription has expired!"
 msgstr "Premium aboneliğin süresi doldu!"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:204
+#: src/components/_military/damageRanking/DamageRankingList.tsx:205
 msgid "Your rank"
 msgstr "Sıralaman"
 

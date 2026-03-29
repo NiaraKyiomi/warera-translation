@@ -4729,7 +4729,7 @@ msgstr "Aucun parlementaire"
 msgid "No contributions yet"
 msgstr "Aucune contribution pour le moment"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:179
+#: src/components/_military/damageRanking/DamageRankingList.tsx:180
 msgid "No damages ranking yet."
 msgstr "Pas encore de classement de dégâts."
 
@@ -4737,7 +4737,7 @@ msgstr "Pas encore de classement de dégâts."
 msgid "No donations yet"
 msgstr "Pas encore de dons"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:181
+#: src/components/_military/damageRanking/DamageRankingList.tsx:182
 msgid "No ground ranking yet."
 msgstr "Pas encore de classement de terrain."
 
@@ -4761,7 +4761,7 @@ msgstr "Aucune unité militaire trouvée"
 msgid "No missions available"
 msgstr "Aucune mission disponible"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:182
+#: src/components/_military/damageRanking/DamageRankingList.tsx:183
 msgid "No money ranking yet."
 msgstr "Pas encore de classement d'argent."
 
@@ -6240,7 +6240,7 @@ msgstr "Paramètres"
 msgid "Shop"
 msgstr "Boutique"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:198
+#: src/components/_military/damageRanking/DamageRankingList.tsx:199
 #: src/components/_social/ArticleTags.tsx:268
 #: src/components/_social/ArticleTags.tsx:319
 #: src/components/_social/ArticleTags.tsx:427
@@ -8059,7 +8059,7 @@ msgstr "Ton abonnement premium a été activé !"
 msgid "Your premium subscription has expired!"
 msgstr "Ton abonnement premium a expiré !"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:204
+#: src/components/_military/damageRanking/DamageRankingList.tsx:205
 msgid "Your rank"
 msgstr "Ton classement"
 

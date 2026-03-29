@@ -4729,7 +4729,7 @@ msgstr "Δεν υπάρχουν μέλη Κοινοβουλίου"
 msgid "No contributions yet"
 msgstr "Δεν υπάρχουν ακόμα συνεισφορές"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:179
+#: src/components/_military/damageRanking/DamageRankingList.tsx:180
 msgid "No damages ranking yet."
 msgstr "Δεν υπάρχει ακόμα κατάταξη ζημιών."
 
@@ -4737,7 +4737,7 @@ msgstr "Δεν υπάρχει ακόμα κατάταξη ζημιών."
 msgid "No donations yet"
 msgstr "Δεν υπάρχουν ακόμα δωρεές"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:181
+#: src/components/_military/damageRanking/DamageRankingList.tsx:182
 msgid "No ground ranking yet."
 msgstr "Δεν υπάρχει ακόμα κατάταξη εδάφους."
 
@@ -4761,7 +4761,7 @@ msgstr "Δεν βρέθηκαν στρατιωτικές μονάδες"
 msgid "No missions available"
 msgstr "Δεν υπάρχουν διαθέσιμες αποστολές"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:182
+#: src/components/_military/damageRanking/DamageRankingList.tsx:183
 msgid "No money ranking yet."
 msgstr "Δεν υπάρχει ακόμα κατάταξη χρημάτων."
 
@@ -6240,7 +6240,7 @@ msgstr "Ρυθμίσεις"
 msgid "Shop"
 msgstr "Κατάστημα"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:198
+#: src/components/_military/damageRanking/DamageRankingList.tsx:199
 #: src/components/_social/ArticleTags.tsx:268
 #: src/components/_social/ArticleTags.tsx:319
 #: src/components/_social/ArticleTags.tsx:427
@@ -8059,7 +8059,7 @@ msgstr "Η premium συνδρομή σου ενεργοποιήθηκε!"
 msgid "Your premium subscription has expired!"
 msgstr "Η premium συνδρομή σου έληξε!"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:204
+#: src/components/_military/damageRanking/DamageRankingList.tsx:205
 msgid "Your rank"
 msgstr "Ο βαθμός σου"
 

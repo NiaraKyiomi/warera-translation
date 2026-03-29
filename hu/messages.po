@@ -4729,7 +4729,7 @@ msgstr "Nincsenek kongresszusi tagok"
 msgid "No contributions yet"
 msgstr "Még nincsenek hozzájárulások"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:179
+#: src/components/_military/damageRanking/DamageRankingList.tsx:180
 msgid "No damages ranking yet."
 msgstr "Még nincs sebzési rangsor."
 
@@ -4737,7 +4737,7 @@ msgstr "Még nincs sebzési rangsor."
 msgid "No donations yet"
 msgstr "Még nincsenek adományok"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:181
+#: src/components/_military/damageRanking/DamageRankingList.tsx:182
 msgid "No ground ranking yet."
 msgstr "Még nincs földi rangsor."
 
@@ -4761,7 +4761,7 @@ msgstr "Nem található katonai egység"
 msgid "No missions available"
 msgstr "Nincs elérhető küldetés"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:182
+#: src/components/_military/damageRanking/DamageRankingList.tsx:183
 msgid "No money ranking yet."
 msgstr "Még nincs pénz rangsor."
 
@@ -6240,7 +6240,7 @@ msgstr "Beállítások"
 msgid "Shop"
 msgstr "Bolt"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:198
+#: src/components/_military/damageRanking/DamageRankingList.tsx:199
 #: src/components/_social/ArticleTags.tsx:268
 #: src/components/_social/ArticleTags.tsx:319
 #: src/components/_social/ArticleTags.tsx:427
@@ -8059,7 +8059,7 @@ msgstr "Prémium előfizetésed aktiválva lett!"
 msgid "Your premium subscription has expired!"
 msgstr "Prémium előfizetésed lejárt!"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:204
+#: src/components/_military/damageRanking/DamageRankingList.tsx:205
 msgid "Your rank"
 msgstr "Rangod"
 
