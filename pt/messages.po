@@ -7206,7 +7206,7 @@ msgstr "Utilizadores"
 
 #: src/components/_layout/LayoutUserMenu.tsx:244
 msgid "Users online"
-msgstr ""
+msgstr "Utilizadores online"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:9
 msgid "UwU"
