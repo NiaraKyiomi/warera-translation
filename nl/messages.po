@@ -4695,7 +4695,7 @@ msgstr "Nog geen gevechten"
 msgid "No citizens"
 msgstr "Geen burgers"
 
-#: src/pages/country/[countryId]/government.tsx:118
+#: src/pages/country/[countryId]/government.tsx:117
 msgid "No congress members"
 msgstr "Geen congresleden"
 
@@ -5590,7 +5590,7 @@ msgstr "Vernieuwt elk uur"
 msgid "Refund: {0} money will be returned to the country treasury."
 msgstr "Terugbetaling: {0} geld zal worden teruggestort op de schatkist van het land."
 
-#: src/components/_layout/LayoutUserMenu.tsx:187
+#: src/components/_layout/LayoutUserMenu.tsx:192
 msgid "Regen in..."
 msgstr "Regenereerd in..."
 
@@ -5666,11 +5666,11 @@ msgstr "Weigeren"
 msgid "Rejected"
 msgstr "Afgewezen"
 
-#: src/components/_layout/LayoutUserMenu.tsx:213
+#: src/components/_layout/LayoutUserMenu.tsx:218
 msgid "Remaining buff duration"
 msgstr "Resterende buffduur"
 
-#: src/components/_layout/LayoutUserMenu.tsx:226
+#: src/components/_layout/LayoutUserMenu.tsx:231
 msgid "Remaining debuff duration"
 msgstr "Resterende duur van de debuff"
 
@@ -6401,7 +6401,7 @@ msgstr "Statistisch gemanipuleerd"
 msgid "Stats"
 msgstr "Statistieken"
 
-#: src/components/_layout/LayoutUserMenu.tsx:188
+#: src/components/_layout/LayoutUserMenu.tsx:193
 msgid "Stats regenerate every hour"
 msgstr "Statistieken regenereren elk uur"
 
@@ -7203,6 +7203,10 @@ msgstr "Gebruikersnaam verwijderd"
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:90
 msgid "Users"
 msgstr "Gebruikers"
+
+#: src/components/_layout/LayoutUserMenu.tsx:243
+msgid "Users online"
+msgstr ""
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:9
 msgid "UwU"
